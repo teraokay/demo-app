@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
     <sys_app_module action="INSERT_OR_UPDATE">
         <active>true</active>
-        <application display_value="Test App Z">c9408f18875202105f1231173cbb3572</application>
+        <application display_value="Test App ZZZ">c9408f18875202105f1231173cbb3572</application>
         <assessment/>
         <device_type/>
         <filter/>

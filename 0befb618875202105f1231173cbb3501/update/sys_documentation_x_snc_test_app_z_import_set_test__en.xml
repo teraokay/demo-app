@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="import set test" language="en" table="x_snc_test_app_z_import_set_test">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>import set test</label>
+            <language>en</language>
+            <name>x_snc_test_app_z_import_set_test</name>
+            <plural>import set tests</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-05-17 09:52:33</sys_created_on>
+            <sys_id>18f6cfdc1bd20210e98c8446624bcb53</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>import set test</sys_name>
+            <sys_package display_value="Test App Z" source="x_snc_test_app_z">0befb618875202105f1231173cbb3501</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Test App Z">0befb618875202105f1231173cbb3501</sys_scope>
+            <sys_update_name>sys_documentation_x_snc_test_app_z_import_set_test__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-05-17 09:52:33</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

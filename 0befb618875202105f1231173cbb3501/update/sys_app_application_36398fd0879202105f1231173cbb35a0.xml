@@ -5,25 +5,25 @@
         <description/>
         <device_type>browser</device_type>
         <hint/>
-        <name/>
-        <order/>
-        <roles>x_snc_test_app_z.user,x_snc_test_app_z.admin,x_snc_test_app_z.reader</roles>
+        <name>App Z Table1</name>
+        <order>100</order>
+        <roles>x_snc_test_app_z.app_z_table1_user</roles>
         <sys_class_name>sys_app_application</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2024-05-17 09:27:28</sys_created_on>
+        <sys_created_on>2024-05-17 10:06:37</sys_created_on>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
-        <sys_id>c9408f18875202105f1231173cbb3572</sys_id>
-        <sys_mod_count>2</sys_mod_count>
-        <sys_name>Test App ZZZ</sys_name>
+        <sys_id>36398fd0879202105f1231173cbb35a0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>App Z Table1</sys_name>
         <sys_overrides/>
         <sys_package display_value="Test App Z" source="x_snc_test_app_z">0befb618875202105f1231173cbb3501</sys_package>
         <sys_policy/>
         <sys_scope display_value="Test App Z">0befb618875202105f1231173cbb3501</sys_scope>
-        <sys_update_name>sys_app_application_c9408f18875202105f1231173cbb3572</sys_update_name>
+        <sys_update_name>sys_app_application_36398fd0879202105f1231173cbb35a0</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-05-17 11:57:06</sys_updated_on>
-        <title>Test App ZZZ</title>
+        <sys_updated_on>2024-05-17 10:06:37</sys_updated_on>
+        <title>App Z Table1</title>
         <view_name/>
     </sys_app_application>
 </record_update>
