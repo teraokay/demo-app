@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="Data Input" language="en" table="x_snc_test_app_z_data_input">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>Data Input</label>
+            <language>en</language>
+            <name>x_snc_test_app_z_data_input</name>
+            <plural>Data Inputs</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-05-17 09:27:09</sys_created_on>
+            <sys_id>2c300f18875202105f1231173cbb35d0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Data Input</sys_name>
+            <sys_package display_value="Test App Z" source="x_snc_test_app_z">0befb618875202105f1231173cbb3501</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Test App Z">0befb618875202105f1231173cbb3501</sys_scope>
+            <sys_update_name>sys_documentation_x_snc_test_app_z_data_input__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-05-17 09:27:09</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
