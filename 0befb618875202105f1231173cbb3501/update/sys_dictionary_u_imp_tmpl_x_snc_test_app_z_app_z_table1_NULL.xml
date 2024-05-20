@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_dictionary action="INSERT_OR_UPDATE" element="u_business_application" table="u_imp_tmpl_x_snc_test_app_z_app_z_table1">
+    <sys_dictionary action="INSERT_OR_UPDATE" element="" extends="sys_import_set_row" table="u_imp_tmpl_x_snc_test_app_z_app_z_table1">
         <active>true</active>
         <array>false</array>
-        <attributes>edge_encryption_enabled=true,import_attribute_name=Business Application</attributes>
+        <attributes/>
         <audit>false</audit>
         <calculation/>
-        <choice/>
+        <choice>0</choice>
         <choice_field/>
         <choice_table/>
-        <column_label>Business Application</column_label>
+        <column_label/>
         <comments/>
         <create_roles/>
         <default_value/>
@@ -21,19 +21,19 @@
         <dynamic_creation_script/>
         <dynamic_default_value/>
         <dynamic_ref_qual/>
-        <element>u_business_application</element>
+        <element/>
         <element_reference>false</element_reference>
         <foreign_database/>
         <formula/>
         <function_definition/>
         <function_field>false</function_field>
-        <internal_type display_value="String">string</internal_type>
+        <internal_type display_value="Collection">collection</internal_type>
         <mandatory>false</mandatory>
-        <max_length>32</max_length>
+        <max_length>40</max_length>
         <name>u_imp_tmpl_x_snc_test_app_z_app_z_table1</name>
         <next_element/>
         <primary>false</primary>
-        <read_only>true</read_only>
+        <read_only>false</read_only>
         <read_roles/>
         <reference/>
         <reference_cascade_rule/>
@@ -46,15 +46,15 @@
         <staged>false</staged>
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2024-05-17 12:26:04</sys_created_on>
-        <sys_id>5529a798871602105f1231173cbb3512</sys_id>
-        <sys_name>Business Application</sys_name>
+        <sys_created_on>2024-05-17 12:26:03</sys_created_on>
+        <sys_id>85296798871602105f1231173cbb35e9</sys_id>
+        <sys_name>u_imp_tmpl_x_snc_test_app_z_app_z_table1</sys_name>
         <sys_package display_value="Test App Z" source="x_snc_test_app_z">0befb618875202105f1231173cbb3501</sys_package>
         <sys_policy/>
         <sys_scope display_value="Test App Z">0befb618875202105f1231173cbb3501</sys_scope>
-        <sys_update_name>sys_dictionary_u_imp_tmpl_x_snc_test_app_z_app_z_table1_u_business_application</sys_update_name>
+        <sys_update_name>sys_dictionary_u_imp_tmpl_x_snc_test_app_z_app_z_table1_NULL</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-05-20 11:33:38</sys_updated_on>
+        <sys_updated_on>2024-05-17 12:26:03</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
