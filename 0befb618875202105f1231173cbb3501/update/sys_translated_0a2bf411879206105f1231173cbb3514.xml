@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_translated">
+    <sys_translated action="INSERT_OR_UPDATE">
+        <element>name</element>
+        <id/>
+        <label>Nouvel Onglet 1</label>
+        <language>ja</language>
+        <name>pa_tabs</name>
+        <sys_class_name>sys_translated</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-05-20 02:19:50</sys_created_on>
+        <sys_id>0a2bf411879206105f1231173cbb3514</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Nouvel Onglet 1</sys_name>
+        <sys_package display_value="Test App Z" source="x_snc_test_app_z">0befb618875202105f1231173cbb3501</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Test App Z">0befb618875202105f1231173cbb3501</sys_scope>
+        <sys_update_name>sys_translated_0a2bf411879206105f1231173cbb3514</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-05-20 02:19:50</sys_updated_on>
+        <value>062bf411879206105f1231173cbb350eNouvel Onglet 1</value>
+    </sys_translated>
+</record_update>
