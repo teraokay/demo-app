@@ -29,7 +29,7 @@
         <function_field>false</function_field>
         <internal_type display_value="String">string</internal_type>
         <mandatory>false</mandatory>
-        <max_length>40</max_length>
+        <max_length>500</max_length>
         <name>x_snc_test_app_z_import_set_test</name>
         <next_element/>
         <primary>false</primary>
@@ -54,7 +54,7 @@
         <sys_scope display_value="Test App Z">0befb618875202105f1231173cbb3501</sys_scope>
         <sys_update_name>sys_dictionary_x_snc_test_app_z_import_set_test_u_string</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-05-21 06:56:08</sys_updated_on>
+        <sys_updated_on>2024-05-21 07:05:49</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
