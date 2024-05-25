@@ -1,19 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_dictionary action="INSERT_OR_UPDATE" element="column_e" table="x_snc_test_app_z_app_z_table1">
+    <sys_dictionary action="INSERT_OR_UPDATE" element="" extends="sys_import_set_row" table="x_snc_test_app_z_import_set_test2">
         <active>true</active>
         <array>false</array>
         <attributes/>
         <audit>false</audit>
-        <calculation><![CDATA[(function calculatedFieldValue(current) {
-
-	// Add your code here
-	return '';  // return the calculated value
-
-})(current);]]></calculation>
-        <choice/>
+        <calculation/>
+        <choice>0</choice>
         <choice_field/>
         <choice_table/>
-        <column_label>Column E</column_label>
+        <column_label/>
         <comments/>
         <create_roles/>
         <default_value/>
@@ -26,16 +21,16 @@
         <dynamic_creation_script/>
         <dynamic_default_value/>
         <dynamic_ref_qual/>
-        <element>column_e</element>
+        <element/>
         <element_reference>false</element_reference>
         <foreign_database/>
         <formula/>
         <function_definition/>
         <function_field>false</function_field>
-        <internal_type display_value="String">string</internal_type>
+        <internal_type display_value="Collection">collection</internal_type>
         <mandatory>false</mandatory>
-        <max_length>60</max_length>
-        <name>x_snc_test_app_z_app_z_table1</name>
+        <max_length>40</max_length>
+        <name>x_snc_test_app_z_import_set_test2</name>
         <next_element/>
         <primary>false</primary>
         <read_only>false</read_only>
@@ -51,15 +46,15 @@
         <staged>false</staged>
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2024-05-17 11:02:50</sys_created_on>
-        <sys_id>b8061f9087d202105f1231173cbb3543</sys_id>
-        <sys_name>Column E</sys_name>
+        <sys_created_on>2024-05-21 07:33:22</sys_created_on>
+        <sys_id>f48ccb6d8756c610e80e4197dabb358f</sys_id>
+        <sys_name>x_snc_test_app_z_import_set_test2</sys_name>
         <sys_package display_value="Test App Z" source="x_snc_test_app_z">0befb618875202105f1231173cbb3501</sys_package>
         <sys_policy/>
         <sys_scope display_value="Test App Z">0befb618875202105f1231173cbb3501</sys_scope>
-        <sys_update_name>sys_dictionary_x_snc_test_app_z_app_z_table1_column_e</sys_update_name>
+        <sys_update_name>sys_dictionary_x_snc_test_app_z_import_set_test2_NULL</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-05-25 05:14:47</sys_updated_on>
+        <sys_updated_on>2024-05-21 07:33:22</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
