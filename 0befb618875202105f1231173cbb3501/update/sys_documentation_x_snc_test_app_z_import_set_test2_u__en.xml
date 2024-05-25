@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_documentation element="u_選択肢_センタクシ" label="選択肢 センタクシ" language="en" table="x_snc_test_app_z_import_set_test">
+    <sys_documentation element="u_" label="選択肢 センタクシ" language="en" table="x_snc_test_app_z_import_set_test2">
         <sys_documentation action="INSERT_OR_UPDATE">
-            <element>u_選択肢_センタクシ</element>
+            <element>u_</element>
             <help/>
             <hint/>
             <label>選択肢 センタクシ</label>
             <language>en</language>
-            <name>x_snc_test_app_z_import_set_test</name>
+            <name>x_snc_test_app_z_import_set_test2</name>
             <plural>選択肢 センタクシs</plural>
             <sys_class_name>sys_documentation</sys_class_name>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-05-17 09:52:35</sys_created_on>
-            <sys_id>9e1303ad1b164210b7580fe0604bcb92</sys_id>
+            <sys_created_on>2024-05-21 07:33:22</sys_created_on>
+            <sys_id>08adcba91b564210b7580fe0604bcbf0</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>選択肢 センタクシ</sys_name>
             <sys_package display_value="Test App Z" source="x_snc_test_app_z">0befb618875202105f1231173cbb3501</sys_package>
             <sys_policy/>
             <sys_scope display_value="Test App Z">0befb618875202105f1231173cbb3501</sys_scope>
-            <sys_update_name>sys_documentation_x_snc_test_app_z_import_set_test_u_選択肢_センタクシ_en</sys_update_name>
+            <sys_update_name>sys_documentation_x_snc_test_app_z_import_set_test2_u__en</sys_update_name>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-05-17 09:52:35</sys_updated_on>
+            <sys_updated_on>2024-05-21 07:33:22</sys_updated_on>
             <url/>
             <url_target/>
         </sys_documentation>

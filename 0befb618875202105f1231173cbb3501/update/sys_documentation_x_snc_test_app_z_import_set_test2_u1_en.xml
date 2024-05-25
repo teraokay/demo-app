@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_documentation element="u_数字_スウジ" label="数字 スウジ" language="en" table="x_snc_test_app_z_import_set_test">
+    <sys_documentation element="u1" label="名前 ナマエ" language="en" table="x_snc_test_app_z_import_set_test2">
         <sys_documentation action="INSERT_OR_UPDATE">
-            <element>u_数字_スウジ</element>
+            <element>u1</element>
             <help/>
             <hint/>
-            <label>数字 スウジ</label>
+            <label>名前 ナマエ</label>
             <language>en</language>
-            <name>x_snc_test_app_z_import_set_test</name>
-            <plural>数字 スウジs</plural>
+            <name>x_snc_test_app_z_import_set_test2</name>
+            <plural>名前 ナマエs</plural>
             <sys_class_name>sys_documentation</sys_class_name>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-05-17 09:52:36</sys_created_on>
-            <sys_id>2a1303ad1b164210b7580fe0604bcba8</sys_id>
+            <sys_created_on>2024-05-21 07:33:22</sys_created_on>
+            <sys_id>779dcba91b564210b7580fe0604bcbed</sys_id>
             <sys_mod_count>0</sys_mod_count>
-            <sys_name>数字 スウジ</sys_name>
+            <sys_name>名前 ナマエ</sys_name>
             <sys_package display_value="Test App Z" source="x_snc_test_app_z">0befb618875202105f1231173cbb3501</sys_package>
             <sys_policy/>
             <sys_scope display_value="Test App Z">0befb618875202105f1231173cbb3501</sys_scope>
-            <sys_update_name>sys_documentation_x_snc_test_app_z_import_set_test_u_数字_スウジ_en</sys_update_name>
+            <sys_update_name>sys_documentation_x_snc_test_app_z_import_set_test2_u1_en</sys_update_name>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-05-17 09:52:36</sys_updated_on>
+            <sys_updated_on>2024-05-21 07:33:22</sys_updated_on>
             <url/>
             <url_target/>
         </sys_documentation>
