@@ -34,7 +34,7 @@
         <function_field>false</function_field>
         <internal_type display_value="String">string</internal_type>
         <mandatory>false</mandatory>
-        <max_length>55</max_length>
+        <max_length>40</max_length>
         <name>x_snc_test_app_z_app_z_table1</name>
         <next_element/>
         <primary>false</primary>
@@ -59,7 +59,7 @@
         <sys_scope display_value="Test App Z">0befb618875202105f1231173cbb3501</sys_scope>
         <sys_update_name>sys_dictionary_x_snc_test_app_z_app_z_table1_column_e</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-05-17 11:41:54</sys_updated_on>
+        <sys_updated_on>2024-05-25 05:06:24</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
