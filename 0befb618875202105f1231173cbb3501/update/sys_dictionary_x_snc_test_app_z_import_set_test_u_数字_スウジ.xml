@@ -2,7 +2,7 @@
     <sys_dictionary action="INSERT_OR_UPDATE" element="u_数字_スウジ" table="x_snc_test_app_z_import_set_test">
         <active>true</active>
         <array>false</array>
-        <attributes>import_attribute_name=数字 スウジ</attributes>
+        <attributes>edge_encryption_enabled=true,import_attribute_name=数字 スウジ</attributes>
         <audit>false</audit>
         <calculation/>
         <choice>0</choice>

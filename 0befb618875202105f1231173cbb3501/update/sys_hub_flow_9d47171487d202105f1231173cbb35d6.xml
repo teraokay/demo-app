@@ -300,7 +300,7 @@
         <sys_created_on>2024-05-17 11:08:16</sys_created_on>
         <sys_id>3d571b1487d202105f1231173cbb3576</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>Table Name</sys_name>
         <sys_package display_value="Test App Z" source="x_snc_test_app_z">0befb618875202105f1231173cbb3501</sys_package>
         <sys_policy/>
         <sys_scope display_value="Test App Z">0befb618875202105f1231173cbb3501</sys_scope>
@@ -323,7 +323,7 @@
         <sys_created_on>2024-05-17 11:08:16</sys_created_on>
         <sys_id>7d57d71487d202105f1231173cbb3520</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>Record</sys_name>
         <sys_package display_value="Test App Z" source="x_snc_test_app_z">0befb618875202105f1231173cbb3501</sys_package>
         <sys_policy/>
         <sys_scope display_value="Test App Z">0befb618875202105f1231173cbb3501</sys_scope>

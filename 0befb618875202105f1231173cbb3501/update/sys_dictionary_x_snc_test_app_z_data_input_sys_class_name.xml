@@ -2,7 +2,7 @@
     <sys_dictionary action="INSERT_OR_UPDATE" element="sys_class_name" table="x_snc_test_app_z_data_input">
         <active>true</active>
         <array>false</array>
-        <attributes/>
+        <attributes>edge_encryption_enabled=true</attributes>
         <audit>false</audit>
         <calculation/>
         <choice>0</choice>

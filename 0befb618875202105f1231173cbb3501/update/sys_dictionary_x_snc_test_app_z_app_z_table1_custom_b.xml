@@ -2,7 +2,7 @@
     <sys_dictionary action="INSERT_OR_UPDATE" element="custom_b" table="x_snc_test_app_z_app_z_table1">
         <active>true</active>
         <array>false</array>
-        <attributes/>
+        <attributes>edge_encryption_enabled=true</attributes>
         <audit>false</audit>
         <calculation><![CDATA[(function calculatedFieldValue(current) {
 

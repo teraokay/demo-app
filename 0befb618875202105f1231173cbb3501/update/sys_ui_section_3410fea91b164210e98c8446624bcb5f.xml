@@ -150,7 +150,6 @@
             <title>true</title>
             <view display_value="Default view" name="NULL">Default view</view>
             <view_name/>
-            <u_caption/>
         </sys_ui_section>
     </sys_ui_section>
 </record_update>
