@@ -47,7 +47,6 @@
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2024-05-21 06:56:08</sys_created_on>
-        <sys_id>6ff3cbed8716c610e80e4197dabb35d1</sys_id>
         <sys_name>String</sys_name>
         <sys_package display_value="Test App Z" source="x_snc_test_app_z">0befb618875202105f1231173cbb3501</sys_package>
         <sys_policy/>

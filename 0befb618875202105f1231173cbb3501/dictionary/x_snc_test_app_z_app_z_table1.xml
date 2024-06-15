@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="ef298bd0879202105f1231173cbb358b" extends="task" label="App Z Table1" max_length="40" name="x_snc_test_app_z_app_z_table1" type="collection">
+        <element label="Column G" max_length="55" name="column_d" type="string"/>
+        <element label="Column E" max_length="60" name="column_e" type="string"/>
+        <element label="Column F" max_length="55" name="column_f" type="string"/>
+        <element label="Custom H" max_length="55" name="custom_1_1" type="string"/>
+        <element label="Custom A" max_length="55" name="custom_a" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Custom B" max_length="55" name="custom_b" type="choice">
+            <choice/>
+        </element>
+    </element>
+</database>

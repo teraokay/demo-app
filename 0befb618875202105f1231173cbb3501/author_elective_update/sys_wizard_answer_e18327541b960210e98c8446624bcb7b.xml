@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_wizard_answer">
+    <sys_wizard_answer action="DELETE">
+        <active>true</active>
+        <answer>App Z Table1</answer>
+        <button_label/>
+        <dependent_value/>
+        <element/>
+        <name>App Z Table1</name>
+        <next_question/>
+        <order>100</order>
+        <payload_name/>
+        <question display_value="Task" name="Task">51a8a528a920211076daa554cb57d91f</question>
+        <roles/>
+        <script/>
+        <sys_class_name>sys_wizard_answer</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-05-17 12:01:31</sys_created_on>
+        <sys_id>e18327541b960210e98c8446624bcb7b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>App Z Table1</sys_name>
+        <sys_package display_value="Global" source="global">global</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Test App Z">0befb618875202105f1231173cbb3501</sys_scope>
+        <sys_update_name>sys_wizard_answer_e18327541b960210e98c8446624bcb7b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-05-17 12:01:31</sys_updated_on>
+        <table/>
+        <target_url>x_snc_test_app_z_app_z_table1.do</target_url>
+        <type>1</type>
+    </sys_wizard_answer>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Test App Z">0befb618875202105f1231173cbb3501</application>
+        <file_path/>
+        <instance_id>d07647281ba80298c82acb7b234bcb05</instance_id>
+        <instance_name>empyteraoka2</instance_name>
+        <name>sys_wizard_answer_e18327541b960210e98c8446624bcb7b</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_wizard_answer"><sys_wizard_answer action="INSERT_OR_UPDATE"><active>true</active><answer>App Z Table1</answer><button_label/><dependent_value/><element/><name>App Z Table1</name><next_question/><order>100</order><payload_name/><question display_value="Task" name="Task">51a8a528a920211076daa554cb57d91f</question><roles/><script/><sys_class_name>sys_wizard_answer</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-05-17 12:01:31</sys_created_on><sys_id>e18327541b960210e98c8446624bcb7b</sys_id><sys_mod_count>0</sys_mod_count><sys_name>App Z Table1</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Test App Z">0befb618875202105f1231173cbb3501</sys_scope><sys_update_name>sys_wizard_answer_e18327541b960210e98c8446624bcb7b</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-05-17 12:01:31</sys_updated_on><table/><target_url>x_snc_test_app_z_app_z_table1.do</target_url><type>1</type></sys_wizard_answer></record_update>]]></payload>
+        <payload_hash>-1691260194</payload_hash>
+        <record_name>App Z Table1</record_name>
+        <reverted_from/>
+        <source>dddb2a101b120210e98c8446624bcb00</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by/>
+        <sys_created_on>2024-05-17 07:58:11</sys_created_on>
+        <sys_id>2d84a7d41b960210e98c8446624bcb39</sys_id>
+        <sys_mod_count/>
+        <sys_recorded_at>18f858efa380000000</sys_recorded_at>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <type>Answer</type>
+        <update_guid>e984a7d418960210d8edec5f51407139</update_guid>
+        <update_guid_history>e984a7d418960210d8edec5f51407139:-1691260194</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-05-17 12:05:53</sys_created_on>
+        <sys_db_object display_value="" name="sys_wizard_answer">sys_wizard_answer</sys_db_object>
+        <sys_id>c4b75bcabd004118a1367977fdac8840</sys_id>
+        <sys_metadata>e18327541b960210e98c8446624bcb7b</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>App Z Table1</sys_name>
+        <sys_package display_value="Global" source="global">global</sys_package>
+        <sys_parent display_value="Task">51a8a528a920211076daa554cb57d91f</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Test App Z">0befb618875202105f1231173cbb3501</sys_scope>
+        <sys_scope_delete display_value="">7708baa3cc704a32883e5cdc7fe81604</sys_scope_delete>
+        <sys_update_name>sys_wizard_answer_e18327541b960210e98c8446624bcb7b</sys_update_name>
+        <sys_update_version display_value="sys_wizard_answer_e18327541b960210e98c8446624bcb7b">2d84a7d41b960210e98c8446624bcb39</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-05-17 12:05:53</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="e48ccb6d8756c610e80e4197dabb358d" extends="sys_import_set_row" label="import set test2" max_length="40" name="x_snc_test_app_z_import_set_test2" type="collection">
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=日付 ヒヅケ" label="日付 ヒヅケ" max_length="40" name="u0" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=名前 ナマエ" label="名前 ナマエ" max_length="260" name="u1" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=数字 スウジ" label="数字 スウジ" max_length="40" name="u2" type="integer"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=文字列 モジレツ" label="文字列 モジレツ" max_length="125" name="u3" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=選択肢 センタクシ" label="選択肢 センタクシ" max_length="40" name="u_" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=String" label="String" max_length="180" name="u_string" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=名前 ナマエ" label="名前 ナマエ" max_length="40" name="u_名前_ナマエ" type="string"/>
+        <element attributes="import_attribute_name=数字 スウジ" label="数字 スウジ" max_length="40" name="u_数字_スウジ" type="integer"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=文字列 モジレツ" label="文字列 モジレツ" max_length="40" name="u_文字列_モジレツ" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=日付 ヒヅケ" label="日付 ヒヅケ" max_length="40" name="u_日付_ヒヅケ" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=選択肢 センタクシ" label="選択肢 センタクシ" max_length="40" name="u_選択肢_センタクシ" type="string"/>
+    </element>
+</database>

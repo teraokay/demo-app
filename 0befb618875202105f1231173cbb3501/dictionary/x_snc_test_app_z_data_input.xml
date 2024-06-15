@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="58300f18875202105f1231173cbb35cb" label="Data Input" max_length="40" name="x_snc_test_app_z_data_input" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Data1" max_length="40" name="data1" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Data2" max_length="300" name="data2" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Name" max_length="40" name="name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
+        <index name="index">
+            <element name="sys_class_name"/>
+        </index>
+    </element>
+</database>
